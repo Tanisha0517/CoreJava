@@ -1,7 +1,5 @@
 package com.rays.oop.Inheritance;
 
-import java.util.Date;
-
 public class Businessman extends Person {
 	protected double income;
 
