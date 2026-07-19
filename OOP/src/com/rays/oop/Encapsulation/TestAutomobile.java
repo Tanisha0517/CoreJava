@@ -1,4 +1,4 @@
-package com.rays.oop.Encapsulation;
+package com.rays.oop.encapsulation;
 
 public class TestAutomobile {
 

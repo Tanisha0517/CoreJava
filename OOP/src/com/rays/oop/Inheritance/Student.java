@@ -1,4 +1,4 @@
-package com.rays.oop.Inheritance;
+package com.rays.oop.inheritance;
 
 public class Student extends Person{
 	protected String rollNo;

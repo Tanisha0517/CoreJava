@@ -1,4 +1,4 @@
-package com.rays.oop.Inheritance;
+package com.rays.oop.inheritance;
 
 public class Doctor extends Person {
 

@@ -1,4 +1,4 @@
-package com.rays.oop.Overriding;
+package com.rays.oop.overriding;
 
 public class RbiBank {
 

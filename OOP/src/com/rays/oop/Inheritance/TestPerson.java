@@ -1,4 +1,4 @@
-package com.rays.oop.Inheritance;
+package com.rays.oop.inheritance;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

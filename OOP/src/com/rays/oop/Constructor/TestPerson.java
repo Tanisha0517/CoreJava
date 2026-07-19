@@ -1,4 +1,4 @@
-package com.rays.oop.Constructor;
+package com.rays.oop.constructor;
 
 public class TestPerson {
 	public static void main(String[] args) {

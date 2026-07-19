@@ -1,4 +1,4 @@
-package com.rays.oop.Polymorphism;
+package com.rays.oop.polymorphism;
 
 public class TestShapeByMethodArguments {
 	public static void main(String[] args) {
