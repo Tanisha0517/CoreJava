@@ -64,3 +64,10 @@ public class TestList {
 //set
 //indexOf
 //lastIndexOf
+
+
+
+
+
+
+
